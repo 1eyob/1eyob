@@ -20,11 +20,11 @@ Passionate about shaping the digital landscape, I bring over 6 years of expertis
 
 ## Total Contributions
 
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YohanesMulugeta&theme=github_dark)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1eyob&theme=github_dark)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanesMulugeta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1eyob&layout=compact)
 
 ## Tech Stack
 
@@ -41,7 +41,7 @@ Passionate about shaping the digital landscape, I bring over 6 years of expertis
 
 ## GitHub Streaks
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohanesMulugeta&currStreakLabel=4395DD&ring=4395DD&currStreakNum=4395DD&sideNums=4395DD&dates=4395DD)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=1eyob&currStreakLabel=4395DD&ring=4395DD&currStreakNum=4395DD&sideNums=4395DD&dates=4395DD)
 
 What I bring to the table
 🔭 Strong knowledge of [LLM Integration, AI SaaS Applications, AI websites, React, and node.js]
