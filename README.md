@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 🚀 About Me
+
+I'm a software developer specializing in backend development with Node.js and frontend development with React. I have experience in agile project management and continuous integration/deployment pipelines. My current focus is on building scalable web applications and integrating APIs.
+
+- 🔭 I’m currently working on **[Tigat](https://www.tigat.net)**
+- 🌱 I’m currently learning **AI** and **Machine Learning**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Node.js**, **React**, **Agile Project Management**
 <!--
 **1eyob/1eyob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +35,9 @@ Passionate about shaping the digital landscape, I bring over 6 years of expertis
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1eyob&layout=compact)
 
 ## Tech Stack
+## 📈 GitHub Stats
+
+![Eyob's GitHub stats](https://github-readme-stats.vercel.app/api?username=1eyob&show_icons=true&theme=radical)
 
 ![JavaScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=javascript)
 
@@ -49,14 +60,15 @@ Passionate about shaping the digital landscape, I bring over 6 years of expertis
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
+## Total Contributions
+
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1eyob&theme=github_dark)
 
 ## GitHub Streaks
 
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=1eyob&currStreakLabel=4395DD&ring=4395DD&currStreakNum=4395DD&sideNums=4395DD&dates=4395DD)
 
-## 📈 GitHub Stats
 
-![Eyob's GitHub stats](https://github-readme-stats.vercel.app/api?username=1eyob&show_icons=true&theme=radical)
 
 What I bring to the table
 🔭 Strong knowledge of [LLM Integration, AI SaaS Applications, AI websites, React, and node.js]
@@ -66,11 +78,13 @@ What I bring to the table
 ## 📫 How to reach me
 
 - LinkedIn: [Eyob Birhanu Tadesse](https://www.linkedin.com/in/eyob-birhanu/)
-- Email: [your.email@example.com](mailto:eyobbirhanu01@gmail.com)
+- Email: [eyobbirhanu01@gmail.com](mailto:eyobbirhanu01@gmail.com)
 - 
   If you like my work, feel free to:
 
 - ⭐️ Star the repositories you find useful.
 - 🐛 Open issues if you find bugs.
 - 🤝 Contribute to the projects by submitting pull requests.
+
+  
 Thanks for stopping by! 😊
