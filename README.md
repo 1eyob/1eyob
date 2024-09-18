@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a software developer specializing in fullsatck development with Node.js and frontend development with React. I have experience in agile project management and continuous integration/deployment pipelines. My current focus is on building scalable web applications and integrating APIs.
+I'm a software developer specializing in ful-stack development with Node.js and frontend development with React. I have experience in agile project management and continuous integration/deployment pipelines. My current focus is on building scalable web applications and integrating APIs.
 
 - 🔭 I’m currently working on **[Datawise](https://www.datawisesoft.com/)**
 - 🌱 I’m currently learning **AI** and **Machine Learning**
