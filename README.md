@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ## 🚀 About Me
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=1eyob&label=Profile%20Views&pretty=false" />
+</a>
 
 I'm a software developer specializing in ful-stack development with Node.js and frontend development with React. I have experience in agile project management and continuous integration/deployment pipelines. My current focus is on building scalable web applications and integrating APIs.
 
