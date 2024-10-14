@@ -10,7 +10,7 @@ I'm a software developer specializing in ful-stack development with Node.js and 
 - 🔭 I’m currently working on **[Datawise](https://www.datawisesoft.com/)**
 - 🌱 I’m currently learning **AI** and **Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Node.js**, **React**, **Agile Project Management**
+- 💬 Ask me about **Node.js**, **React**, **TypeScript**,**Deployment**,**Agile Project Management**
 <!--
 **1eyob/1eyob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
