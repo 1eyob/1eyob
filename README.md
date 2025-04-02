@@ -7,7 +7,7 @@
 
 I'm a software developer specializing in ful-stack development with Node.js and frontend development with React. I have experience in agile project management and continuous integration/deployment pipelines. My current focus is on building scalable web applications and integrating APIs.
 
-- 🔭 I’m currently working on **[Datawise](https://www.datawisesoft.com/)**
+- 🔭 I’m currently working on Stealth Startup
 - 🌱 I’m currently learning **AI** and **Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Node.js**, **React**, **TypeScript**,**Deployment**,**Agile Project Management**
