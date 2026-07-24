@@ -59,9 +59,6 @@ Passionate about shaping the digital landscape, I bring over 6 years of expertis
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-## Total Contributions
-
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1eyob&theme=github_dark)
 
 ## GitHub Streaks
 
